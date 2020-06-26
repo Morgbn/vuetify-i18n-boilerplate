@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="125" height="125" src="https://morgbn.github.io/vuetify-i18n-boilerplate/img/logo.52220100.png">
+  <img width="125" height="125" src="https://raw.githubusercontent.com/Morgbn/vuetify-i18n-boilerplate/gh-pages/src/img/logo.52220100.png">
 </p>
 
 # Vue, Vuetify, Vuex, Vue-router, i18n boilerplate
